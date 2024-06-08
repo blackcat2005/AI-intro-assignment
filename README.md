@@ -1,9 +1,5 @@
 # AI intro Assignment GR09 - Word2vec
 
-## Result
-
-![Result](./src/word_vectors.png)
-
 ## How to train
 
 1. Create env
@@ -24,6 +20,10 @@ sh get_datasets.sh
 ```bash
 python run.py
 ```
+
+## Result
+
+![Result](./src/word_vectors.png)
 
 ## Author
 
